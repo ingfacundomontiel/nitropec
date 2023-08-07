@@ -1,0 +1,9 @@
+/* Make Menu Items wider on Admin Menu Settings  */
+
+.menu-item-bar .menu-item-handle {
+    max-width: 800px;
+}
+
+.menu-item-settings {
+    max-width: 810px;
+}
