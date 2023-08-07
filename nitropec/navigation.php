@@ -5,7 +5,6 @@
     <div class="header-mobile">
         <a class="navbar-brand" href="/" aria-label="Nitropec">
             <img class="brand-light no-lazy" width="100%" height="32px" src="" alt="" />
-            ?>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
             <svg class="icon-hamburger" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
