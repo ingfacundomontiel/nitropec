@@ -1,6 +1,5 @@
 <?php
 ?>
-
 <nav class="container" aria-label="Main navigation">
     <div class="header-mobile">
         <a class="navbar-brand" href="/" aria-label="Nitropec">

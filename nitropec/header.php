@@ -39,6 +39,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 	<?php wp_body_open(); ?>
 
+	<div class="top-green-bar"></div>
 	<header class="navbar navbar-expand-lg nitropec-navbar <?php echo $header_class; ?>">
 		<?php include 'navigation.php'; ?>
 	</header>

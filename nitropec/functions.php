@@ -142,7 +142,7 @@ function nitropec_scripts()
 	wp_enqueue_style('bootstrap-css', get_template_directory_uri() . '/css/vendor/bootstrap.min.css', array(), _S_VERSION); // Bootstrap
 	wp_enqueue_style('swiper-css', get_template_directory_uri() . '/plugins/swiper/swiper-bundle.min.css', array(), _S_VERSION); // Swiper slider
 	// wp_enqueue_style('lightbox-css', get_template_directory_uri() . '/plugins/lightbox/ekko-lightbox.css', array(), _S_VERSION); // Lightbox
-	wp_enqueue_style('nitropec-style', get_template_directory_uri() . '/style.min.css', array(), _S_VERSION);	 // Nitropec compiled scss 
+	wp_enqueue_style('nitropec-style', get_template_directory_uri() . '/css/style.min.css', array(), _S_VERSION);	 // Nitropec compiled scss 
 
 	//JS
 
